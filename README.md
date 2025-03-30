@@ -55,3 +55,6 @@ Para executar corretamente, configure o Ngrok para expor seu servidor local. Iss
 
 Para utilizar o código em estabelecimentos, é necessário contratar um serviço de hospedagem e a API da Twilio, ambos sujeitos a custos variáveis.
 
+# Imagem mostrando testes
+
+![Imagem do WhatsApp de 2025-03-30 à(s) 14 04 49_d77c8745](https://github.com/user-attachments/assets/cfaed5b8-58e3-4d6d-af00-5d39498b7eed)
